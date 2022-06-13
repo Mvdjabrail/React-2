@@ -1,0 +1,39 @@
+.zero {
+  width: 15%;
+  margin: auto;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.btn {
+  padding-top: 5%;
+  width: 30%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5%;
+}
+
+.btn1 {
+  font-size: 1.3em;
+  background-color: #003399;
+  color: white;
+  border-radius: 5px;
+  line-height: 28px;
+}
+
+.btn2 {
+  font-size: 1.3em;
+  background-color: #f27c0f;
+  color: white;
+  border-radius: 5px;
+  line-height: 28px;
+}
+
+.btn3 {
+  font-size: 1.3em;
+  background-color: #e5e5e5;
+  color: black;
+  border-radius: 5px;
+  line-height: 28px;
+}
